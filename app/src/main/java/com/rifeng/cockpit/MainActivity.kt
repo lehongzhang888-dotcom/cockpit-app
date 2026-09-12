@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var errorText: TextView
 
     companion object {
-        private const val BASE_URL = "http://106.54.235.34/cockpit/"
+        private const val BASE_URL = "http://106.54.235.34/cockpit/m/"
     }
 
     @SuppressLint("SetJavaScriptEnabled")
