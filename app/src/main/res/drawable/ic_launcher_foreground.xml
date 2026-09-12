@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 建筑图标 -->
+    <path
+        android:fillColor="#bf9000"
+        android:pathData="M54,22 L30,40 L30,86 L78,86 L78,40 Z" />
+    <path
+        android:fillColor="#1f3864"
+        android:pathData="M42,86 L42,64 L66,64 L66,86 Z" />
+    <path
+        android:fillColor="#ffffff"
+        android:pathData="M48,86 L48,70 L60,70 L60,86 Z" />
+    <!-- AI 标记 -->
+    <path
+        android:fillColor="#bf9000"
+        android:pathData="M32,52 L38,36 L44,52 L48,42 L52,52 L58,36 L62,52" />
+</vector>
